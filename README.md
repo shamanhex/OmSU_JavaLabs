@@ -8,7 +8,10 @@
 
 1. [Hello world! и расчёт формулы](./Labs/Lab01.md)
 2. [Рекурсивный калькулятор](./Labs/Lab02.md)
+3. [Работа со строками](./Labs/Lab03.md)
+4. [Работа с исключенями](./Labs/Lab04.md)
 
 ## Короткая ссылка
 
 [http://bit.ly/2PuIZyp]
+![QR](./Files/qr-code.png)
