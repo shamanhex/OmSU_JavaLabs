@@ -14,6 +14,9 @@
 6. [Модульные тесты](./Labs/Lab06.md)
 7. [Приёмочные тесты](./Labs/Lab07.md)
 
+## Ссылка на проект Hibernate
+<https://github.com/hibernate/hibernate-orm>
+
 ## Короткая ссылка
 
 [http://bit.ly/2PuIZyp]
